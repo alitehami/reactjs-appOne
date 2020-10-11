@@ -1,3 +1,9 @@
+Following the intro to React tutorials by [Mosh Hamdani](https://codewithmosh.com/)
+>[Youtube tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0&list=PLEGWW1uC0Uyty-sRSY2Cae8thhUCKtfSV&index=1)
+
+---
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
